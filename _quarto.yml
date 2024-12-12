@@ -1,8 +1,11 @@
 project:
   type: website
+  output-dir: docs
+  
+
 
 website:
-  title: "_website"
+  title: "Data Aid Consultants"
   navbar:
     left:
       - href: index.qmd
