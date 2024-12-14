@@ -5,6 +5,7 @@ project:
 
 
 website:
+  site-url: https://github.com/MarothiPeter/Bio3-SIDS
   title: "Data Aid Consultants"
   navbar:
     left:
