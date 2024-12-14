@@ -1,0 +1,5 @@
+P3:  exp(a*C+b)/(1+exp(a*C+b))
+P2:  (exp(a*C+b+d)/(1+exp(a*C+b+d))) - P3
+P1:  (exp(a*C+b+d+e)/(1+exp(a*C+b+d+e))) - (exp(a*C+b+d)/(1+exp(a*C+b+d)))
+P0:  1 - (exp(a*C+b+d+e)/(1+exp(a*C+b+d+e)))
+Total_P: P0+P1+P2+P3

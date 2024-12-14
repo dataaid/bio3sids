@@ -1,0 +1,2 @@
+Cl=Clbase* exp(dCldFormN3*(FormN==3))
+	stparm(Clbase = tvCl  * exp(nCl))

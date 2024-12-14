@@ -1,0 +1,14 @@
+#Get Initial Estimates for kPlac
+
+#We already have Intercept and Placebo from slide equations, just using Initial Estimates tab to #find kPlac)
+
+
+test(){
+	covariate(Week)
+	L = Int + Plac*(1-exp(-kPlac*Week))
+	error(LEps = 1)
+	observe(LObs = L + LEps)
+	fixef(Int = c(, -7, ))
+	fixef(Plac = c(, 4.1, ))
+	fixef(kPlac = c(, 0.4, 1))
+}

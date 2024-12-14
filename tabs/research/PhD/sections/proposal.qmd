@@ -1,0 +1,114 @@
+---
+title: A Bayesian Pharmacometric Machine Learning Framework for Integrating Historical Controls in Drug Development
+
+subtitle: "**PhD Proposal**"
+
+keywords:
+  - Bayesian statistics 
+  - Clinical Trials
+  - Historical Control
+  - Pharmacometric modeling
+  - Machine learning
+
+title-block-banner: 'black'
+title-block-banner-color: 'white'
+title-block-categories: true
+
+project: 
+  type: manuscript
+  
+author: 
+    
+  - name: Marothi Peter Letsoalo
+    orcid: 0000-0003-2170-6312
+    roles:
+      - Biostatistician
+      - Bioinformatician
+      - Data Scientist
+    affiliations:
+      - University of Kwazulu Natal
+    email: marothi.letsoalo.001@gmail.com
+    
+format: 
+  html: 
+    toc: true
+    embed-resources: true
+    page-layout: full
+    fig-dpi: 300
+  docx: 
+    toc: true
+
+bibliography: references.bib
+---
+
+## Introduction
+
+The development of new drugs is a complex, costly, and ethically challenging endeavor, with clinical trials playing a critical role in assessing drug efficacy and safety [@friedman2010b] . Traditionally, these trials often involve control groups receiving placebo or standard treatment, raising ethical concerns and recruitment challenges, particularly when effective therapies already exist . The reliance on concurrent control groups in randomized controlled trials (RCTs) can lead to delays in drug development, increased costs, and potential ethical dilemmas when withholding potentially effective treatments from patients [@pocock2013].
+
+To address these issues, leveraging historical control data (HCD) from previous studies has gained significant interest [@berry1994; @Marion2023]. HCD offers the potential to reduce the need for placebo or standard treatment arms, thereby minimizing patient burden and accelerating drug development timelines [@Viele2014; @Lim2020]. By incorporating data from past trials, researchers can make more informed decisions about the effectiveness and safety of new interventions, potentially leading to faster approval and access to new treatments [@Hall2021]. The use of HCD can be particularly valuable in rare diseases or small patient populations where recruiting a sufficient number of participants for a traditional RCT may be difficult [@ghadessi2020].
+
+However, the heterogeneity and potential biases inherent in HCD, such as variations in patient populations, study designs, outcome measures, and potential publication or selection biases, present significant obstacles to their seamless integration [@schmidli2014; @branders2021]. Differences in inclusion/exclusion criteria, disease severity, concomitant medications, and data collection methods can all contribute to heterogeneity, making direct comparisons challenging [@Hall2021]. Additionally, the quality of HCD can vary considerably, with some studies lacking adequate documentation or reporting, further complicating the integration process.
+
+Bayesian statistics, pharmacometric modeling, and machine learning offer a synergistic approach to address these challenges. Bayesian methods provide a flexible framework for incorporating prior information, such as HCD, into current analyses, allowing for the updating of beliefs about treatment effects as new data becomes available [@Jin2023]. Pharmacometric models can be integrated with Bayesian methods to capture complex dose-response relationships, account for inter-individual variability, and predict treatment outcomes [@wakefield1996; @lunn]. Machine learning algorithms can aid in identifying relevant HCD, given their ability to detect patterns and relationships within data, and improving the predictive accuracy of models [@lee2020].
+
+The proposed framework aims to synergize these approaches to create a comprehensive solution for integrating HCD in drug development. By addressing challenges related to data selection, weighting, model integration, and regulatory alignment, this research aims to develop and validate a robust tool for integrating HCD, ultimately contributing to more efficient and ethical drug development processes.
+
+## Rationale
+
+The rationale for this research is to address the critical need for a robust and efficient framework for integrating historical control data (HCD) in drug development. By leveraging Bayesian statistics, pharmacometric modeling, and machine learning, this research aims to overcome the challenges associated with HCD heterogeneity and potential biases. The successful development and validation of such a framework would have significant implications for accelerating drug development timelines, reducing patient burden, and improving the ethical conduct of clinical trials. Furthermore, this research could contribute to more informed decision-making in drug development, ultimately leading to faster access to safe and effective therapies for patients in need.
+
+## Aim and Objectives
+
+The overarching aim of this research is to develop and validate a Bayesian pharmacometric machine learning framework for the integration of historical control data (HCD) in drug development, thereby enhancing the efficiency, ethical conduct, and decision-making processes within clinical trials.
+
+To achieve this overarching aim, the following specific objectives will be pursued:
+
+1.  A unified framework will be constructed, integrating Bayesian statistics, pharmacometric modeling, and machine learning algorithms. This framework will facilitate the quantification of uncertainty, the prediction of treatment effects based on HCD, and the identification of patterns and relationships within the HCD.
+
+2.  Algorithms will be designed and implemented to identify and select relevant HCD based on their similarity to the current trial population, while accounting for potential biases and heterogeneity. Furthermore, methods will be developed to optimally weight HCD based on their relevance and informativeness, ensuring that the most pertinent data influence the analysis.
+
+3.  Pharmacokinetic/pharmacodynamic (PK/PD) modeling will be incorporated into the framework to predict treatment effects in the current trial population based on HCD. This integration will involve adjusting for differences in patient characteristics and disease progression to ensure accurate and contextually relevant predictions.
+
+### Additional Objectives
+
+4.  The potential of the proposed framework to enable adaptive trial design adjustments will be investigated. This exploration will focus on utilizing accumulating HCD to potentially reduce sample size requirements while maintaining statistical rigor and ethical considerations.
+
+5.  The regulatory implications of using HCD in clinical trials will be thoroughly investigated to ensure compliance with guidelines from agencies such as the FDA and EMA. The framework will undergo rigorous validation to ensure its reliability and robustness for decision-making, providing a solid foundation for regulatory acceptance and practical implementation.
+
+## Methodology
+
+The proposed research will be conducted through a multi-phase approach, encompassing the development, validation, and application of a Bayesian pharmacometric machine learning (BPML) framework for integrating historical control data (HCD) in clinical trials. This methodology is designed to ensure the robust and reliable implementation of the framework, which synergistically combines Bayesian statistics, pharmacometric modeling, and machine learning algorithms.
+
+### Phase 1: Framework Construction
+
+The initial phase involves the construction of the unified BPML framework. This will commence with a comprehensive literature review to identify existing methodologies and potential gaps in the integration of HCD in drug development (e.g., @Viele2014). Bayesian statistical methods will form the foundation of the framework, allowing for the incorporation of prior information and the quantification of uncertainty [@schmidli2014]. Pharmacometric models, specifically pharmacokinetic/pharmacodynamic (PK/PD) models, will be integrated to capture the complex dynamics of drug effects and disease progression [@Mould2013]. Machine learning algorithms will be employed to identify patterns and relationships within the HCD, facilitating the prediction of treatment effects [@vamathevan2019].
+
+### Phase 2: Algorithm Design
+
+In this phase, algorithms will be designed to identify and select relevant HCD. This involves the development of similarity metrics to match historical controls to the current trial population, accounting for demographic and clinical characteristics, disease states, and other pertinent variables. Advanced machine learning techniques, such as clustering and classification algorithms, will be utilized to manage the heterogeneity and potential biases inherent in historical data [@schmidli2014]. Methods for optimally weighting HCD will be developed, ensuring that the analysis is influenced by the most relevant and informative data. This weighting process will leverage Bayesian hierarchical models to balance the contributions of various data sources [@schmidli2014].
+
+### Phase 3: PK/PD Model Integration
+
+The integration of PK/PD modeling within the framework will follow the identification and selection of HCD. This step involves adjusting the pharmacometric models to reflect the characteristics of the current trial population. Bayesian methods will be used to update these models with new data, providing contextually relevant predictions of treatment effects [@Jin2023]. The models will be calibrated using a combination of historical and current trial data, with careful attention to differences in patient characteristics and disease progression [@Mould2013].
+
+### Phase 4: Framework Validation
+
+Validation of the framework will be conducted through a series of simulations and real-world case studies. Simulations will be designed to test the robustness of the framework under various scenarios, including different levels of data heterogeneity, varying sample sizes, and different degrees of similarity between historical and current trial populations. These simulations will help identify potential limitations and areas for improvement. Real-world case studies, involving actual clinical trial data, will provide practical insights into the framework's performance and applicability. Metrics for validation will include predictive accuracy, the precision of uncertainty estimates, and the framework's ability to improve decision-making processes in clinical trials.
+
+
+### Additional Phases
+
+#### Phase 5: Adaptive Trial Design Exploration
+
+The framework will be examined for its capability to utilize accumulating HCD during ongoing trials, exploring the potential of adaptive trial design adjustments. This exploration will assess how real-time integration of HCD can inform interim analyses and potentially reduce sample size requirements while maintaining statistical rigor and ethical considerations. The framework's flexibility and adaptability will be tested through simulations that mimic adaptive trial scenarios [@Pallmann2018].
+
+#### Phase 6: Regulatory Compliance
+
+The regulatory implications of using HCD in clinical trials will be thoroughly investigated to ensure compliance with guidelines from regulatory agencies such as the FDA and EMA [@beckett2014; @european2014]. The framework will undergo rigorous validation to ensure its reliability and robustness for decision-making, providing a solid foundation for regulatory acceptance and practical implementation.
+
+## Ethical Considerations
+
+Throughout the research, ethical considerations will be paramount. The integration of HCD aims to enhance the ethical conduct of clinical trials by potentially reducing the need for control groups and minimizing patient exposure to less effective treatments. The methodology will be designed to ensure transparency, reproducibility, and adherence to regulatory standards [@taylor2022].
+
+
+## References

@@ -8,10 +8,27 @@ website:
   site-url: https://github.com/MarothiPeter/Bio3-SIDS
   title: "Data Aid Consultants"
   navbar:
+  
     left:
       - href: index.qmd
-        text: Home
+      - text: 'Resume'
+        file: tabs/resume/Marothi_Peter_Letsoalo_Resume.qmd
+      - text: 'Projects'
+        file: tabs/projects/projects.qmd
+      - text: 'Research'
+        file: tabs/research/research.qmd
+      - text: 'Materials'
+        file: tabs/trainings/trainings.qmd
+
+# Right bar content
+    right:
       - about.qmd
+      - text: 'Blog'
+        file: tabs/blog/blog.qmd
+      - text: 'Tools'
+        file: tabs/tools/tools.qmd
+
+
 
 format:
   html:

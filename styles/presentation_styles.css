@@ -1,0 +1,19 @@
+/* Change and bold Heading 1 styles */
+.reveal h1 {
+  color: red;           /* Change color */
+  font-size: 2.3em !important;      /* Change font size */
+  font-weight: bold;    /* Make text bold */
+}
+
+/* Change and bold Heading 2 styles */
+.reveal h2 {
+  color: red;        /* Change color */
+  font-size: 2.3em !important;      /* Change font size */
+  font-weight: bold;    /* Make text bold */
+}
+
+.reveal h3 {
+  color: red;           /* Change color */
+  font-size: 2.3em !important;      /* Change font size */
+  font-weight: bold;    /* Make text bold */
+}

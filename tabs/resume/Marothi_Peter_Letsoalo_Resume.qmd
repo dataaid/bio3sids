@@ -1,0 +1,113 @@
+---
+title: |
+  | Resume
+
+author: 
+  - name: Marothi Peter LETSOALO
+    orcid: 0000-0003-2170-6312
+    email: marothi.letsoalo.001@gmail.com
+    affiliations:
+      address: Little Falls, Johannesburg
+      linkedin: "https://www.linkedin.com/in/marothi-peter-letsoalo/"
+      phone: "+27 (81) 512-7839"
+
+format: 
+  docx: default
+  html: 
+    toc: true
+    embed-resources: true
+    page-layout: full
+    fig-dpi: 300
+
+date: today
+date-format: "<br>DD MMMM YYYY"
+
+bibliography: research.bib
+nocite: |
+  @*
+---
+
+::: columns
+::: {.column width="50%"}
+**Email**: marothi.letsoalo.001\@gmail.com\
+**LinkedIn**: [Professional LinkedIn Profile](https://www.linkedin.com/in/marothi-peter-letsoalo/)\
+**Phone**: +27 (81) 512-7839\
+**Location**: Little Falls, Johannesburg
+:::
+
+::: {.column width="50%"}
+**Birthplace**: Mankweng, South Africa\
+**Nationality**: South African\
+**Gender**: Male\
+**Civil Status**: Married
+:::
+:::
+
+I am a biostatistician and data scientist contributing to people's health through clinical research through with data and science. My passion is driven by a continuous need for precision public health as well as precision medicine. I have extensive experience in designing, analyzing, and reporting on various types of clinical trials and cohort studies, using advanced biostatistics and bioinformatic methods. I also have strong skills in data management and programming, as well as in writing scientific manuscripts and presenting statistical results. Recently acquired extensive skill in in pharmacometrics. I enjoy collaborating with multidisciplinary teams of scientists, and principal investigators, as well as mentoring and training junior statisticians. Highlight of my field of knowledge and technical skills:
+
+**Field**\
+Clinical Research \| Drug Development \| Clinical Trials \| Biostatistics \| Pharmacometrics \| Data Science \| \
+**Skills**\
+Statistical Programming, Analysis & Modelling (`R`, `SAS`) \| Bioinformatics Analysis (`R`, `Python`) \| Data Science & Machine Learning (`R`, `Python`) \| Pharmacometrics (`R`, `Phoenix`, `NONMEM`) \| Clinical Data Management & Processing (`R`, `Python`, `SAS`, `SQL`)
+
+## Work Experience
+
+**Senior Biostatistician, CAPRISA, Durban, South Africa `(1/2021 to Present)`**
+
+Provide and participate in study design, sample size determination, randomization procedures, periodic reports, statistical plans, and statistical analysis on multiple clinical trials.
+
+-   Design and analysis of clinical trials.
+-   Co-author of scientific manuscripts.
+-   Statistical analysis and methodological input on clinical data.
+-   Supervision and training of junior statisticians.
+
+**Research Data Manager, VLIR-OUS, University of Limpopo, South Africa `(6/2016 to 3/2019)`**
+
+Played a key role as research data manager; extracting and analyzing complex data, while ensuring clean data demands long working hours and patience.
+
+-   Managed and analyzed complex data.
+-   Developed databases and performed data cleaning.
+-   Provided training and support for data collection and analysis.
+
+**Junior Lecturer, University of Limpopo, South Africa `(1/2015 to 5/2016)`**
+
+Interacted daily with students, teaching introductory statistics and crafting detailed study guides and lecture notes.
+
+-   Taught introductory statistics.
+-   Developed educational materials and assessed student performance.
+
+**Faculty Researcher, University of Limpopo, South Africa `(4/2012 to 12/2014)`**
+
+Conducted and completed evaluation programs of student data to explore students at risk.
+
+-   Conducted research and data analysis.
+-   Co-authored a peer-reviewed paper.
+
+## Education
+
+-   **Pharmacometrics**, Pharmacometrics Africa
+-   **Data Science and Machine Learning**, MIT Schwarzman College of Computing, Cambridge, MA, USA
+-   **Master of Biostatistics (RSS accredited)**, Hasselt University, Diepenbeek, Belgium
+-   **Master of Science in Statistics**, University of Limpopo, Mankweng, South Africa
+-   **BSc (Hons) in Statistics**, University of Limpopo, Mankweng, South Africa
+-   **BSc in Applied Mathematics & Statistics**, University of Limpopo, Mankweng, South Africa
+
+## Awards and Honors
+
+-   VLIR Scholarship for a Master in Biostatistics at UHasselt
+-   Second best development relevant master’s thesis, UHasselt 2020 in the category international student
+
+## Certifications
+
+Pharmacometrics (PMx Africa)\| Data Science and Machine Learning (MIT) [Verify](https://olympus1.mygreatlearning.com/certificate/BYUCMIXV) \| Clinical Trials Programming Using SAS [Verify](/https://www.credly.com/users/marothi-letsoalo/badges) \| Advanced Programmer for SAS 9[Verify](https://www.credly.com/users/marothi-letsoalo/badges) \| Base Programmer for SAS 9 [Verify](https://www.credly.com/users/marothi-letsoalo/badges) \| Statistical Business Analyst Using SAS 9 [Verify](https://www.credly.com/users/marothi-letsoalo/badges) \| VIARES Clinical Research Data Management\]() \| Design and Interpretation of Clinical Trials (John Hopkins University) [Verify]() \| ICH Good Clinical Practice E6 (R2) [Verify]() \| Designing Big Data Healthcare Studies: Part I- [Verify](https://www.linkedin.com/learning/certificates/78c7b0a132e41f3518d293232ee3b52b5b843c047f9a6a2a01ec0b83f23efabe?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BV4ARm12XQYyft7U3GqS1%2Fw%3D%3D) \| Part II-[Verify](https://www.linkedin.com/learning/certificates/0e42a8ad2d8798e85af0f0793871ece482fbab80e8ac4b70fb30c975d3c94962?trk=backfilled_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BV4ARm12XQYyft7U3GqS1%2Fw%3D%3D)
+
+## Projects
+
+-   **CAPRISA Epidemic Intelligence Unit** (2022-present): Lead biostatistician.
+-   **AI-based HIV Prevention for Generation Z population** (2022-present): Project coordinator.
+
+## Publications
+
+::: {#refs}
+:::
+

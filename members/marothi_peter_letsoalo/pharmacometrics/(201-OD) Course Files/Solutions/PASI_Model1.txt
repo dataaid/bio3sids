@@ -1,0 +1,22 @@
+#Model AUCs
+
+test(){
+	covariate(Week, Cov)  # Cov = AUCss here
+	Logit = Int + Plac * (1 - exp(-kPlac * Week)) + RxEff
+	Prob = exp(Logit) / (1 + exp(Logit))
+	
+	LL(EObs, (EObs==1)*log(Prob) + (EObs==0)*log(1-Prob))
+	
+	stparm(E50 = tvE50)
+	stparm(RxEff = ((tvEmax * Cov) / (E50 + Cov)))
+	stparm(kPlac = tvkPlac)
+	stparm(Plac = tvPlac)
+	stparm(Int = tvInt)
+	# note: initial estimates for kPlac, Plac and Int were mapped in from Placebo model and will overwrite these
+	fixef(tvE50 = c(, 2150, ))  # Theta(1)
+	fixef(tvEmax = c(, 2.86, )) # Theta(3)
+	fixef(tvkPlac = c(, 0.7, )) # Theta(4)
+	fixef(tvPlac = c(, 10, )) # Theta(5)
+	fixef(tvInt = c(, -10, )) # Theta(6)
+	#ranef(diag(nE50, nEmax, nKPlac, nPlac, nInt) = c(1, 1, 1, 1, 1))  # eta 1, 2, 3, 4, 5
+}

@@ -1,0 +1,7 @@
+---
+title: Trainings and Presentations
+format:
+  html:
+    toc: false
+    page-layout: full
+---

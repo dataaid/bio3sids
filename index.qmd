@@ -1,5 +1,24 @@
 ---
-title: "Data Aid Consultants"
+title: Bio3SIDS
+format: 
+  html: 
+    toc: true
+    embed-resources: true
+    page-layout: full
+    fig-dpi: 300
 ---
 
-## About us
+Welcome to BioSIDS — Your Experts in Biostatistics, Bioinformatics, and Bio-Data Science. 
+Our dedicated team leverages the profound capabilities of data to catalyze pivotal discoveries across the biological sciences.
+
+```{r}
+#| warning: false
+#| echo: false
+# create projects
+require(here)
+require(stringr)
+# source(file.path(here(),'pipelines/functions/proj_dir.R'))
+# func_create_project_structure(path=file.path(here(),'tabs/projects'),project='prj_vp_vmic')
+# func_create_project_structure(path=file.path(here(),'tabs/projects'),project='prj_vp_cyto')
+```
+
