@@ -5,35 +5,66 @@ project:
 
 
 website:
-  site-url: https://github.com/MarothiPeter/Bio3-SIDS
-  title: "Data Aid Consultants"
+  #site-url: https://github.com/MarothiPeter/Bio3-SIDS
   navbar:
+    logo: "tabs/tools/images/dataidlogo.png"
   
     left:
-      - href: index.qmd
-      - text: 'Resume'
-        file: tabs/resume/Marothi_Peter_Letsoalo_Resume.qmd
+      - text: 'Home'
+        href: index.qmd
+      - text: 'Our Unit'
+        href: tabs/units/units.qmd 
       - text: 'Projects'
-        file: tabs/projects/projects.qmd
+        href: tabs/projects/projects.qmd
       - text: 'Research'
-        file: tabs/research/research.qmd
-      - text: 'Materials'
-        file: tabs/trainings/trainings.qmd
+        href: tabs/research/research.qmd
+      - text: 'Training'
+        href: tabs/trainings/trainings.qmd
 
 # Right bar content
     right:
       - about.qmd
       - text: 'Blog'
-        file: tabs/blog/blog.qmd
+        href: tabs/blog/blog.qmd
       - text: 'Tools'
-        file: tabs/tools/tools.qmd
+        href: tabs/tools/tools.qmd
 
+  sidebar:
+    - id: units
+      title: Data Aid Consultants Unit
+      collapse-level: 1
+      align: left
+      contents:
+        - href: tabs/units/units.qmd
+        
+        - section: BioSIDS
+          href: tabs/units/biosids/biosids.qmd
+          contents:
+            - text: Welcome to BioSIDS
+              href: tabs/units/biosids/biosids.qmd
+            - text: About BioSIDS
+              href: tabs/units/biosids/about_biosids.qmd
+            
+        - section: RADIANT
+          href: tabs/units/radiant/radiant.qmd
+          contents:
+            - text: Welcome to RADIANT
+              href: tabs/units/radiant/radiant.qmd
+            - text: About RADIANT
+              href: tabs/units/radiant/about_radiant.qmd
 
-
-format:
-  html:
+format: 
+  html: 
+    grid:
+      sidebar-width: 300px
+      body-width: 1000px
+      margin-width: 300px
+      gutter-width: 1.5rem
     theme: cosmo
-    css: styles.css
+    embed-resources: true
+    self-contained: true
+    page-layout: full
+    fig-dpi: 300
     toc: true
 
 

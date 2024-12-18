@@ -1,0 +1,89 @@
+---
+title: Bio3SIDS
+subtitle: "**Biostatistics | Bioinformatics | Bio-Data Science**"
+format: 
+  html: 
+    toc: true
+    embed-resources: true
+    page-layout: full
+    fig-dpi: 300
+---
+
+Innovative Data Science for Global Health Challenges
+
+```{r}
+#| warning: false
+#| echo: false
+# create projects
+require(here)
+require(stringr)
+require(tidyverse)
+```
+
+:::::: columns
+:::: {.column width="70%"}
+::: columns
+### Welcome to the Bio3SIDS
+:::
+
+
+BioSIDS Department leverages cutting-edge statistical methods to empower studies. Our data-driven insights help shape strategies that combat some of the most urgent public health issues.
+
+**Explore Our Core Services**
+
+-   **Study Design**: Crafting the blueprint for rigorous research.
+-   **Data Management**: Ensuring the integrity and security of vital research data.
+-   **Statistical Analysis**: Transforming raw data into actionable insights.
+-   **Results Dissemination**: Communicating findings to inform public health policies.
+
+**Engage with Us**
+
+-   [Collaborate](#) with our experts on your next project.
+-   [Join Our Team](#) and make a difference.
+
+**Stay Updated** - [Subscribe](#) to our newsletter for the latest updates and breakthroughs.
+
+**Contact Us** - [biosids@dataaidconsultanting.com](mailto:biosids@dataaidconsultanting.com)
+::::
+
+::: {.column width="20%"}
+### Our Team is Involved every step of the way {.centering}
+
+```{r fig.width=5, fig.height=9}
+#| warning: false
+#| echo: false
+# Load necessary libraries
+
+# Define the workflow steps and their connections
+workflow_steps <- data.frame(
+  step = c("Problem Definition", "Study Design", "Data Collection", "Data Management",
+           "Preliminary Data Analysis", "Statistical Analysis", "Results Interpretation",
+           "Results Dissemination", "Documentation"),
+  y = c(9:1),
+  x = c(1, 1, 1, 1, 1, 1, 1, 1, 1),
+  color = c(
+    "#42B540FF", "#0099B4FF", "#E99714FF", "#ED3000FF", '#20854EFF',
+    "#00468BFF", "#0072B5FF", "#FDAF91FF", "#BC3C29FF")
+)
+
+# Create the base plot
+p <- ggplot(
+   workflow_steps, aes(x = x, y = y, label = step, fill = color)) +
+  geom_label(aes(x=x-1),size = 9,hjust='left',color='white',fontface='bold') +  # Add labels above the points
+  geom_text(aes(x=2,y=1,label=''),size = 9,hjust='right',color='white') +  # Add labels above the points
+  geom_point(aes(x=x-1), size = 6) +  # Add points with custom colors
+  scale_color_identity() +  # Use colors as provided
+  theme_minimal() +
+   geom_segment(
+     aes(x = 0, y = 1, xend = 0, yend = max(workflow_steps$y),
+         fill = I(color)), size = 1.5)+
+  theme(axis.text = element_blank(),
+        axis.ticks = element_blank(),
+        axis.title = element_blank(),
+        legend.position = "none",  # Hide legend
+        panel.grid = element_blank())  # Remove grid
+p
+
+```
+:::
+::::::

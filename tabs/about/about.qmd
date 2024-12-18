@@ -1,7 +1,3 @@
 ---
 title: About
-format:
-  html:
-    toc: false
-    page-layout: full
 ---
