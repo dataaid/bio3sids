@@ -5,21 +5,19 @@ project:
 
 
 website:
-  #site-url: https://github.com/MarothiPeter/Bio3-SIDS
   navbar:
     logo: "tabs/tools/images/dataidlogo.png"
-  
     left:
       - text: 'Home'
         href: index.qmd
-      - text: 'Our Unit'
-        href: tabs/units/units.qmd 
-      - text: 'Projects'
-        href: tabs/projects/projects.qmd
-      - text: 'Research'
-        href: tabs/research/research.qmd
+
+      - text: 'Units'
+        menu:
+          - tabs/units/biosids/biosids.qmd
+
       - text: 'Training'
-        href: tabs/trainings/trainings.qmd
+        menu:
+          - tabs/units/radiant/radiant.qmd
 
 # Right bar content
     right:
@@ -29,35 +27,11 @@ website:
       - text: 'Tools'
         href: tabs/tools/tools.qmd
 
-  sidebar:
-    - id: units
-      title: Data Aid Consultants Unit
-      collapse-level: 1
-      align: left
-      contents:
-        - href: tabs/units/units.qmd
-        
-        - section: BioSIDS
-          href: tabs/units/biosids/biosids.qmd
-          contents:
-            - text: Welcome to BioSIDS
-              href: tabs/units/biosids/biosids.qmd
-            - text: About BioSIDS
-              href: tabs/units/biosids/about_biosids.qmd
-            
-        - section: RADIANT
-          href: tabs/units/radiant/radiant.qmd
-          contents:
-            - text: Welcome to RADIANT
-              href: tabs/units/radiant/radiant.qmd
-            - text: About RADIANT
-              href: tabs/units/radiant/about_radiant.qmd
-
 format: 
   html: 
     grid:
       sidebar-width: 300px
-      body-width: 1000px
+      body-width: 1300px
       margin-width: 300px
       gutter-width: 1.5rem
     theme: cosmo

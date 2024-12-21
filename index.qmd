@@ -1,17 +1,3 @@
 ---
-title: Data Aid Consultants
+title: Dataaid Consultans
 ---
-
-Welcome to Data Aid Consultants
-
-```{r}
-#| warning: false
-#| echo: false
-
-# create projects
-require(here)
-require(stringr)
-# source(file.path(here(),'pipelines/functions/proj_dir.R'))
-# func_create_project_structure(path=file.path(here(),'tabs/projects'),project='prj_vp_vmic')
-# func_create_project_structure(path=file.path(here(),'tabs/projects'),project='prj_vp_cyto')
-```

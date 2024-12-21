@@ -1,5 +1,5 @@
 ---
-title: Bio3SIDS
+title: BioSIDS
 subtitle: "**Biostatistics | Bioinformatics | Bio-Data Science**"
 format: 
   html: 
@@ -27,7 +27,8 @@ require(tidyverse)
 :::
 
 
-BioSIDS Department leverages cutting-edge statistical methods to empower studies. Our data-driven insights help shape strategies that combat some of the most urgent public health issues.
+BioSIDS Department leverages cutting-edge statistical methods to empower studies.\
+Our data-driven insights help shape strategies that combat some of the most urgent public health issues.
 
 **Explore Our Core Services**
 
