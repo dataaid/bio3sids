@@ -50,7 +50,7 @@ Our data-driven insights help shape strategies that combat some of the most urge
 ::: {.column width="20%"}
 ### Our Team is Involved every step of the way {.centering}
 
-```{r fig.width=5, fig.height=9}
+```{r fig.width=5, fig.height=6}
 #| warning: false
 #| echo: false
 # Load necessary libraries

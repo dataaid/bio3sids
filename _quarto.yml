@@ -15,17 +15,42 @@ website:
         menu:
           - tabs/units/biosids/biosids.qmd
 
-      - text: 'Training'
+      - text: 'Training Programmes'
         menu:
           - tabs/units/radiant/radiant.qmd
 
 # Right bar content
     right:
-      - about.qmd
+      - tabs/about/about.qmd
       - text: 'Blog'
         href: tabs/blog/blog.qmd
       - text: 'Tools'
         href: tabs/tools/tools.qmd
+
+  sidebar:
+    - id: biosids
+      title: BioSIDS
+      collapse-level: 1
+      align: left
+      style: "docked"
+      search: true
+      contents:
+        - text: Welcome to BioSIDS
+          href: tabs/units/biosids/biosids.qmd
+        - text: About BioSIDS
+          href: tabs/units/biosids/about_biosids.qmd
+          
+    - id: training
+      title: Training
+      collapse-level: 1
+      align: left
+      style: "docked"
+      search: true
+      contents:
+        - text: Welcome to RADIANT
+          href: tabs/units/radiant/radiant.qmd
+        - text: About RADIANT
+          href: tabs/units/radiant/about_radiant.qmd
 
 format: 
   html: 
