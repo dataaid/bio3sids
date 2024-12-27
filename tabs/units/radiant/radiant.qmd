@@ -21,6 +21,7 @@ Empowering Your Team to Shine with Data
 ::: {.column width="25%"}
 
 ![](images/clipboard-3907843264.png){fig-align="center" width="340"}
+
 :::
 ::::::
 
