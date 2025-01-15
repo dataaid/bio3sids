@@ -15,7 +15,7 @@ website:
         menu:
           - tabs/units/biosids/biosids.qmd
 
-      - text: 'Training Programmes'
+      - text: 'Training'
         menu:
           - tabs/units/radiant/radiant.qmd
 
@@ -56,7 +56,7 @@ format:
   html: 
     grid:
       sidebar-width: 300px
-      body-width: 1300px
+      body-width: 1000px
       margin-width: 300px
       gutter-width: 1.5rem
     theme: cosmo

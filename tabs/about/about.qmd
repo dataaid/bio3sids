@@ -2,32 +2,127 @@
 title: About
 ---
 
-# About DataAid Consultants
+At **Dataaid Consultants**, we are on a mission to empower Africa through the transformative potential of data. As an umbrella organization, we host a variety of specialized units and programs that deliver innovative, data-driven solutions to support informed decision-making across industries and communities.  
 
-## Who We Are
-
-DataAid Consultants is a team of passionate data professionals dedicated to helping businesses thrive in the data-driven world. We believe that data holds the key to unlocking incredible potential, and we're here to empower you to make informed decisions, optimize your operations, and achieve your goals.
-
-## Our Mission
-
-Our mission is to bridge the gap between data and action. We strive to:
-
-* **Demystify data:**  Make complex data understandable and accessible to everyone in your organization.
-* **Deliver actionable insights:**  Provide you with the knowledge you need to make informed decisions.
-* **Drive real results:**  Help you achieve tangible outcomes through data-driven strategies.
-
-## Our Values
-
-* **Expertise:** We bring a wealth of experience and knowledge in data science, analytics, and business intelligence.
-* **Collaboration:** We work closely with our clients, building strong partnerships to achieve shared success.
-* **Integrity:** We uphold the highest ethical standards in all our work.
-* **Innovation:** We constantly explore new technologies and methodologies to provide cutting-edge solutions.
-
-## Our Team
-
-Our team comprises experienced data scientists, analysts, and consultants with diverse backgrounds and expertise. We are passionate about data and committed to delivering exceptional value to our clients.
-
+We recognize that data is more than just numbers—it’s the foundation for understanding complex challenges, unlocking new opportunities, and driving impactful change. By translating data into actionable insights, we help individuals, organizations, and governments make decisions that lead to sustainable growth and meaningful progress.  
 
 ---
 
+### Our Vision  
+
+To become Africa’s leading partner in data-driven solutions, shaping a future where every decision is guided by actionable insights and every challenge is met with confidence and clarity.  
+
+---
+
+### Our Mission  
+
+To harness the power of data to enable informed decisions, foster innovation, and create sustainable solutions that address Africa’s most pressing challenges.  
+
+---
+
+### What We Do  
+
+Through our diverse portfolio of units and programs, we offer:  
+
+:::::: columns
+:::: {.column width="15%"}
+**Data Analytics & Insights** 
+::::
+:::: {.column width="85%"}
+Transforming raw data into actionable insights to guide strategic decisions.  
+::::
+:::: {.column width="15%"}
+**Research & Consultancy** 
+::::
+:::: {.column width="85%"}
+Supporting evidence-based decision-making with tailored research and advisory services.  
+::::
+:::: {.column width="15%"}
+**Capacity Building** 
+::::
+:::: {.column width="85%"}
+Equipping individuals and organizations with the skills to harness data for innovation and growth.  
+::::
+:::: {.column width="15%"}
+**Sector-Specific Programs** 
+::::
+:::: {.column width="85%"}
+Designing and delivering targeted solutions to address unique challenges in health, education, agriculture, business, and more.
+::::
+:::::: 
+
+---
+
+### Why We Stand Out  
+
+
+:::::: columns
+:::: {.column width="15%"}
+**Holistic Solutions** 
+::::
+:::: {.column width="85%"}
+We don’t just analyze data; we provide comprehensive strategies that bridge the gap between analysis and action.  
+::::
+:::: {.column width="15%"}
+**Expertise Across Sectors**
+::::
+:::: {.column width="85%"}
+From healthcare to education, business to public policy, our multidisciplinary expertise ensures that we can meet your unique needs.  
+::::
+:::: {.column width="15%"}
+**Commitment to Excellence**
+::::
+:::: {.column width="85%"}
+Every project we undertake is driven by a dedication to accuracy, integrity, and impact.  
+::::
+:::: {.column width="15%"}
+**Empowering Communities**
+::::
+:::: {.column width="85%"}
+Our work goes beyond consultancy; we aim to build capacity and foster resilience in the communities we serve.
+::::
+:::::: 
+
+---
+
+### Our Values  
+
+:::::: columns
+:::: {.column width="15%"}
+**Integrity**
+::::
+:::: {.column width="85%"}
+Upholding the highest standards of honesty and professionalism in everything we do.  
+::::
+:::: {.column width="15%"}
+**Innovation**
+::::
+:::: {.column width="85%"}
+Embracing creativity and cutting-edge approaches to deliver solutions that make a difference.  
+::::
+:::: {.column width="15%"}
+**Collaboration**
+::::
+:::: {.column width="85%"}
+Building strong partnerships with clients, stakeholders, and communities to co-create value.  
+::::
+:::: {.column width="15%"}
+**Impact**
+::::
+:::: {.column width="85%"}
+Ensuring that every solution leads to measurable and sustainable progress.
+::::
+:::::: 
+
+---
+
+### Join Us in Making a Difference  
+
+At Dataaid Consultants, we are not just about data; we are about creating a brighter future through informed decisions. Explore our services and programs to see how we can help you harness the power of data to achieve your goals.  
+
+Together, let’s empower Africa through data.  
+
+---  
+
+Let me know if you’d like to add more specific details about your programs, history, or leadership team!
 &copy; 2025 DataAid Consultants

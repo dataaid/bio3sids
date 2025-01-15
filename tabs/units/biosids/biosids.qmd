@@ -57,7 +57,7 @@ Our data-driven insights help shape strategies that combat some of the most urge
 
 # Define the workflow steps and their connections
 workflow_steps <- data.frame(
-  step = c("Problem Definition", "Study Design", "Data Collection", "Data Management",
+  step = c("Proposal Development", "Study Design", "Data Collection", "Data Management",
            "Preliminary Data Analysis", "Statistical Analysis", "Results Interpretation",
            "Results Dissemination", "Documentation"),
   y = c(9:1),

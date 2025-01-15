@@ -1,22 +1,56 @@
 ---
-title: Dataaid Consultans
+title: Welcome to Dataaid Consultants
 ---
 
-# Welcome to DataAid Consultants
+At **Dataaid Consultants**, we believe in the power of data to shape better decisions and drive impactful change. As an umbrella organization hosting diverse units and programs, we are committed to providing innovative, data-driven solutions that empower individuals, businesses, and communities across Africa to thrive in today’s dynamic world. With expertise spanning multiple sectors, we aim to bridge the gap between complex data and practical solutions, ensuring that our partners and clients can navigate challenges with confidence and clarity.
 
-**Unlocking the Power of Your Data**
+### Why Choose Dataaid Consultants?  
 
-Welcome to DataAid Consultants, your trusted partner in data-driven decision making. 
-We specialize in helping businesses and projects of all sizes harness the power of their data to improve efficiency, increase profitability, and gain a competitive edge.
+:::::: columns
+:::: {.column width="15%"}
+**Comprehensive Services**
+::::
+:::: {.column width="85%"}
+From advanced analytics to bespoke consultancy, we offer a wide range of solutions tailored to meet your unique needs.
+::::
 
-## Our Services
+:::: {.column width="15%"}
+**Collaborative Approach**
+::::
+:::: {.column width="85%"}
+We work closely with you to understand your challenges, uncover opportunities, and co-create solutions that deliver measurable impact.
+::::
 
-* Data Analysis and Visualization
-* Business Intelligence
-* Data Warehousing
-* Machine Learning
-* Data-Driven Strategy Consulting
+:::: {.column width="15%"}
+**Expert Team**
+::::
+:::: {.column width="85%"}
+Our team of professionals brings a wealth of knowledge and experience in data science, research, and decision-making across various industries.
+::::
 
-Our team of experienced data scientists and consultants are passionate about helping you turn your data into actionable insights. We work closely with you to understand your unique needs and challenges, and develop customized solutions that deliver real results.
+:::: {.column width="15%"}
+**Commitment to Excellence**
+::::
+:::: {.column width="85%"}
+We are driven by a passion for accuracy, integrity, and innovation, ensuring that every project meets the highest standards.
+::::
+:::::: 
 
-[Learn More](www.dataaidconsulting.com) 
+### Our Focus  
+
+- Enabling **data-driven decision-making** to tackle Africa’s unique challenges.  
+- Empowering organizations with tools and insights to achieve their goals.  
+- Driving innovation and growth through cutting-edge analytics and tailored programs.  
+
+Whether you're looking to enhance your organization's decision-making capabilities, unlock the potential of your data, or explore how data can lead to transformational change, **Dataaid Consultants** is here to support you every step of the way.
+
+Explore our website to learn more about our services, programs, and success stories. Together, let’s make informed decisions that shape a better future.
+
+---
+
+**Dataaid Consultants**  
+*Empowering Africa Through Data.*  
+
+---
+
+Let me know if you’d like additional sections or further customization!
