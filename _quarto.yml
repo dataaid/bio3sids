@@ -56,7 +56,7 @@ format:
   html: 
     grid:
       sidebar-width: 300px
-      body-width: 1000px
+      body-width: 800px
       margin-width: 300px
       gutter-width: 1.5rem
     theme: cosmo
