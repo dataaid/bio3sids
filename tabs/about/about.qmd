@@ -22,7 +22,7 @@ To harness the power of data to enable informed decisions, foster innovation, an
 
 ### What We Do  
 
-Through our diverse portfolio of units and programs, we offer:  
+Through our diverse portfolio of units and programs, we offer
 
 :::::: columns
 :::: {.column width="30%"}
@@ -122,7 +122,3 @@ At Dataaid Consultants, we are not just about data; we are about creating a brig
 
 Together, let’s empower Africa through data.  
 
----  
-
-Let me know if you’d like to add more specific details about your programs, history, or leadership team!
-&copy; 2025 DataAid Consultants

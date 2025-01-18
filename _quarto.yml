@@ -55,19 +55,30 @@ website:
         - text: About RADIANT
           href: tabs/units/radiant/about_radiant.qmd
 
-format: 
+  #Footer-----------------------------------------------------------------------       
+  page-footer:
+    left: "© DATAAID CONSULTANTS 2025"
+    center: "[About](tabs/about/about.qmd)"
+    right: "Built with [Quarto](https://quarto.org/)"
+
+#Format-------------------------------------------------------------------------     
+format:
   html: 
     grid:
       sidebar-width: 300px
       body-width: 900px
       margin-width: 300px
       gutter-width: 1.5rem
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: [latly, theme-dark.scss]
     embed-resources: true
     self-contained: true
     page-layout: full
     fig-dpi: 300
     toc: true
+
+editor: visual
 
 
 
