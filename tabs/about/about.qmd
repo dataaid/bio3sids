@@ -25,28 +25,28 @@ To harness the power of data to enable informed decisions, foster innovation, an
 Through our diverse portfolio of units and programs, we offer:  
 
 :::::: columns
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Data Analytics & Insights** 
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 Transforming raw data into actionable insights to guide strategic decisions.  
 ::::
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Research & Consultancy** 
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 Supporting evidence-based decision-making with tailored research and advisory services.  
 ::::
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Capacity Building** 
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 Equipping individuals and organizations with the skills to harness data for innovation and growth.  
 ::::
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Sector-Specific Programs** 
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 Designing and delivering targeted solutions to address unique challenges in health, education, agriculture, business, and more.
 ::::
 :::::: 
@@ -57,28 +57,28 @@ Designing and delivering targeted solutions to address unique challenges in heal
 
 
 :::::: columns
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Holistic Solutions** 
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 We don’t just analyze data; we provide comprehensive strategies that bridge the gap between analysis and action.  
 ::::
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Expertise Across Sectors**
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 From healthcare to education, business to public policy, our multidisciplinary expertise ensures that we can meet your unique needs.  
 ::::
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Commitment to Excellence**
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 Every project we undertake is driven by a dedication to accuracy, integrity, and impact.  
 ::::
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Empowering Communities**
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 Our work goes beyond consultancy; we aim to build capacity and foster resilience in the communities we serve.
 ::::
 :::::: 
@@ -88,28 +88,28 @@ Our work goes beyond consultancy; we aim to build capacity and foster resilience
 ### Our Values  
 
 :::::: columns
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Integrity**
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 Upholding the highest standards of honesty and professionalism in everything we do.  
 ::::
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Innovation**
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 Embracing creativity and cutting-edge approaches to deliver solutions that make a difference.  
 ::::
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Collaboration**
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 Building strong partnerships with clients, stakeholders, and communities to co-create value.  
 ::::
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Impact**
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 Ensuring that every solution leads to measurable and sustainable progress.
 ::::
 :::::: 
