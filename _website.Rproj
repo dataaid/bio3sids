@@ -12,3 +12,9 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
+
+BuildType: Website
+
+PythonType: system
+PythonVersion: 3.9.6
+PythonPath: /usr/bin/python3

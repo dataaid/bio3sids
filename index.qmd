@@ -7,31 +7,31 @@ At **Dataaid Consultants**, we believe in the power of data to shape better deci
 ### Why Choose Dataaid Consultants?  
 
 :::::: columns
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Comprehensive Services**
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 From advanced analytics to bespoke consultancy, we offer a wide range of solutions tailored to meet your unique needs.
 ::::
 
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Collaborative Approach**
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 We work closely with you to understand your challenges, uncover opportunities, and co-create solutions that deliver measurable impact.
 ::::
 
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Expert Team**
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 Our team of professionals brings a wealth of knowledge and experience in data science, research, and decision-making across various industries.
 ::::
 
-:::: {.column width="15%"}
+:::: {.column width="30%"}
 **Commitment to Excellence**
 ::::
-:::: {.column width="85%"}
+:::: {.column width="70%"}
 We are driven by a passion for accuracy, integrity, and innovation, ensuring that every project meets the highest standards.
 ::::
 :::::: 

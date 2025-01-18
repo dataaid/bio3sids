@@ -2,7 +2,10 @@ project:
   type: website
   output-dir: docs
   
-
+title-block-banner: 'blue'
+title-block-banner-color: '#FFA319FF'
+title-block-categories: true
+title-block-tags: true
 
 website:
   navbar:
@@ -56,7 +59,7 @@ format:
   html: 
     grid:
       sidebar-width: 300px
-      body-width: 800px
+      body-width: 900px
       margin-width: 300px
       gutter-width: 1.5rem
     theme: cosmo
